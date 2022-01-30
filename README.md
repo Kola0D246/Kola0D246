@@ -1,6 +1,10 @@
-- :waving hands: Hi, I’m @Kola0D246 :smile:
-- :smiling face with open hands: I’m interested in Politics, Writting (stories/poems/articles) :book: and of course, coding :robot:
-- 🌱 I’m currently learning C, C++ 
+- 👋 Hi, I’m @Kola0D246 🤗
+- 📋 I’m interested in ...
+  - Politics 🗞️
+  - Writting & Reading (stories/poems/articles) 📚
+  - travel 🚋
+  - coding 🤖
+- 🌱 I’m currently learning C, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
