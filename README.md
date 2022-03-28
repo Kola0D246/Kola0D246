@@ -5,8 +5,9 @@
   - travel 🚋
   - coding 🤖
 - 🌱 I’m currently learning C, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on [ARIC](https://github.com/Kola0D246/ARIC)
+- 📫 How to reach me?
+  - koustubhsinha04@gmail.com
 
 <!---
 Kola0D246/Kola0D246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
