@@ -2,10 +2,9 @@
 - 📋 I’m interested in ...
   - Politics 🗞️
   - Writting & Reading (stories/poems/articles) 📚
-  - travel 🚋
   - coding 🤖
-- 🌱 I’m currently learning C, C++
-- 💞️ I’m looking to collaborate on [ARIC](https://github.com/Kola0D246/ARIC)
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on... Wait for it
 - 📫 How to reach me?
   - koustubhsinha04@gmail.com
 
