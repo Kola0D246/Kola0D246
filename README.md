@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kola0D246 🤗
+- 👋 Hi, I’m Koustubh sinha (@Kola0D246) 🤗
 - 📋 I’m interested in Python Programming, Artificial Intelligence, Machine Learning and Deep learning.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on... Wait for it
