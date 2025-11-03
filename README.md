@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Koustubh sinha (@Kola0D246) 🤗
 - 📋 I’m interested in Python Programming, Artificial Intelligence, Machine Learning and Deep learning.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on... Wait for it
+- 🌱 I’m currently learning Mathematics behind ML
+- 💞️ I’m looking to collaborate on... look for my repositories
 - 📫 You can reach me on koustubhsinhapolytecnic@gmail.com
 
 <!---
